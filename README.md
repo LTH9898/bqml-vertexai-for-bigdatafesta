@@ -1,5 +1,7 @@
 # 개요
-미래에셋증권 빅데이터 페스티벌에서 보여드린 BigQuery ML 쿼리와 Vertex AI 노트북입니다.
+![](https://miraeasset-assets.s3.ap-northeast-2.amazonaws.com/images/bigdata/main-top.png)
+9/24일 [미래에셋증권 빅데이터 페스티벌](https://miraeassetfesta.com/bigdata)에서 보여드린 BigQuery ML Query와 Vertex AI Workbench 노트북 파일입니다.
+
 
 # 파일 소개
 ## bqml/bqml-iris.sql
