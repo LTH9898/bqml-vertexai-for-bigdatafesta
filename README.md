@@ -27,12 +27,14 @@ Vertex AI Workbench를 이용하여 붓꽃 분류기를 만들어 봅니다.
 머신러닝 입문의 추억의 분석 데이터셋,  
 Iris(붓꽃)의 꽃잎과 꽃받침으로 분류하는 모델을 만들어봅시다.  
   
-Vertex AI에서 네 개의 알고리즘으로 모델 생성을 합니다.  
+Vertex AI에서 다섯 개의 알고리즘으로 모델 생성을 합니다.  
+AutoML을 제외한 나머지 알고리즘은 Scikit-learn 라이브러리를 이용합니다.  
  
 1. AutoML
-2. RandomForest
-3. Logistic Regression
-4. Support Vector Machine
+2. Decision Tree Classifier
+3. RandomForest
+4. Logistic Regression
+5. Support Vector Machine
   
 Vertex AI 샘플 노트북은 아래 GitHub Repository에서 참고하실 수 있습니다.  
 [Google Cloud Vertex AI Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
