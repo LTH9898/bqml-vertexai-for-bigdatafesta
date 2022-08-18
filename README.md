@@ -14,7 +14,7 @@ BigQuery ML에서 세 개의 알고리즘으로 모델 생성을 합니다.
 2. Boosted Tree Classifier
 3. AutoML Classifier
   
-사용된 쿼리는 구글 클라우드 공식 문서에서 가져왔습니다.
+사용된 쿼리는 구글 클라우드 공식 문서에서 가져왔습니다.  
 [Exporting a BigQuery ML model for online prediction](https://cloud.google.com/bigquery-ml/docs/export-model-tutorial#train_and_deploy_a_boosted_tree_classifier_model)
 
 
@@ -38,7 +38,7 @@ Vertex AI 샘플 노트북은 아래 GitHub Repository에서 참고하실 수 �
 
 # 데이터셋 소개
 Scikit-Learn으로 처음 많이 공부해보는 붓꽃 분류기입니다.  
-뇌의 저편에 저장된 기억을 되살리고 싶으신 분은 아래 블로그를 참조해주세요.
+뇌의 저편에 저장된 기억을 되살리고 싶으신 분은 아래 블로그를 참조해주세요.  
 [입문자를 위한 머신러닝 분류 튜토리얼 - IRIS 분류](https://dschloe.github.io/python/python_edu/04_machinelearning/chapter_4_4_classification_iris_example/)
 
 
