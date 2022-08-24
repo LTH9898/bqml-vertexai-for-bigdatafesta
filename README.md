@@ -46,3 +46,14 @@ Scikit-Learn으로 처음 많이 공부해보는 붓꽃 분류기입니다.
 [입문자를 위한 머신러닝 분류 튜토리얼 - IRIS 분류](https://dschloe.github.io/python/python_edu/04_machinelearning/chapter_4_4_classification_iris_example/)
 
 
+# Useful Link
+- Quickstart: Create a managed notebooks instance by using the console | Vertex AI Workbench | Google Cloud
+- The CREATE MODEL statement | BigQuery ML | Google Cloud
+- BigQuery ML Model Evaluation Overview | Google Cloud
+- AutoML Tables
+- Google Cloud Vertex AI의 MLOps 툴과 기능
+- Faster model training and experimentation with Vertex AI
+- Vertex AI: Custom training job and prediction using managed datasets
+- Time Series Forecasting with Vertex AI and BigQuery ML
+- Build an AutoML Forecasting Model with Vertex AI
+- GitHub - bqml-vertexai-for-bigdatafesta (Expiry date: 8/31)
