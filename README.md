@@ -47,13 +47,13 @@ Scikit-Learn으로 처음 많이 공부해보는 붓꽃 분류기입니다.
 
 
 # Useful Link
-- Quickstart: Create a managed notebooks instance by using the console | Vertex AI Workbench | Google Cloud
-- The CREATE MODEL statement | BigQuery ML | Google Cloud
-- BigQuery ML Model Evaluation Overview | Google Cloud
-- AutoML Tables
-- Google Cloud Vertex AI의 MLOps 툴과 기능
-- Faster model training and experimentation with Vertex AI
-- Vertex AI: Custom training job and prediction using managed datasets
-- Time Series Forecasting with Vertex AI and BigQuery ML
-- Build an AutoML Forecasting Model with Vertex AI
-- GitHub - bqml-vertexai-for-bigdatafesta (Expiry date: 8/31)
+- [Quickstart: Create a managed notebooks instance by using the console | Vertex AI Workbench | Google Cloud](https://cloud.google.com/vertex-ai/docs/workbench/managed/create-managed-notebooks-instance-console-quickstart)
+- [The CREATE MODEL statement | BigQuery ML | Google Cloud](https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-create)
+- [BigQuery ML Model Evaluation Overview | Google Cloud](https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-evaluate-overview/)
+- [AutoML Tables](https://www.youtube.com/watch?v=tWbiOuHae0c)
+- [Google Cloud Vertex AI의 MLOps 툴과 기능](https://www.youtube.com/watch?v=AZ8xS571QWQ)
+- [Faster model training and experimentation with Vertex AI](https://www.youtube.com/watch?v=rAGauhXYgw4)
+- [Vertex AI: Custom training job and prediction using managed datasets](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-code-training?hl=en#0)
+- [Time Series Forecasting with Vertex AI and BigQuery ML](https://codelabs.developers.google.com/codelabs/time-series-forecasting-with-cloud-ai-platform?hl=en#0)
+- [Build an AutoML Forecasting Model with Vertex AI](https://codelabs.developers.google.com/codelabs/automl-forecasting-with-vertex-ai?hl=en#2)
+- [GitHub - bqml-vertexai-for-bigdatafesta (Expiry date: 8/31)](https://github.com/hajekim/bqml-vertexai-for-bigdatafesta)
